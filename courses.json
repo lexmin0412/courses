@@ -195,6 +195,216 @@
 			"price": null,
 			"createTime": null,
 			"expiresTime": null
+		},
+		{
+			"name": "前端基础建设与架构 30 讲",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=584#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "LucasHC（侯策）",
+				"desc": ""
+			},
+			"tags": [
+				"基础建设",
+				"工程化"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "前端性能优化方法与实战",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=638#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "溪风",
+				"desc": ""
+			},
+			"tags": [
+				"性能优化"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "测试开发入门与实战",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=482#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "蔡超",
+				"desc": ""
+			},
+			"tags": [
+				"测试开发"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "TypeScript 入门实战笔记",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=885#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "乾元",
+				"desc": ""
+			},
+			"tags": [
+				"TypeScript"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "前端进击笔记",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=885#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "王贝珊（被删）",
+				"desc": ""
+			},
+			"tags": [
+				"架构设计"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "姜承尧的MySQL实战宝典",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=869#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "姜承尧",
+				"desc": ""
+			},
+			"tags": [
+				"MySQL"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "计算机网络通关 29 讲",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=837#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "林䭽",
+				"desc": ""
+			},
+			"tags": [
+				"计算机网络"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "Node.js 应用开发实战",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=694#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "清弦",
+				"desc": ""
+			},
+			"tags": [
+				"Node.js"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "应用性能分析实战",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=729#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "赵禹光",
+				"desc": ""
+			},
+			"tags": [
+				"Node.js"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "成为会带团队的技术人",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=608#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "石佳宁",
+				"desc": ""
+			},
+			"tags": [
+				"Node.js"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "成为会带团队的技术人",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=608#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "石佳宁",
+				"desc": ""
+			},
+			"tags": [
+				"Node.js"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
 		}
 	]
 }
