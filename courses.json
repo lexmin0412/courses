@@ -2,8 +2,14 @@
 	"courses": [
 		{
 			"name": "浏览器工作原理与实践",
+			"desc": "Thoughtworks CTO 带你重构建模技能",
+			"author": {
+				"name": "徐昊",
+				"desc": "Thoughtworks 中国区 CTO"
+			},
 			"url": "https://time.geekbang.org/column/intro/100033601?tab=catalog",
 			"platform": "geekTime",
+			"type": "column",
 			"tags": [
 				"浏览器",
 				"HTTP",
@@ -109,6 +115,82 @@
 				"3D",
 				"可视化"
 			],
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "前端全链路性能优化实战",
+			"url": "https://time.geekbang.org/course/detail/100041001-171522",
+			"platform": "geekTime",
+			"type": "video",
+			"author": {
+				"name": "刘威",
+				"desc": "前端架构师"
+			},
+			"tags": [
+				"Performance",
+				"性能优化"
+			],
+			"purchasable": false,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "TypeScript开发实战",
+			"url": "https://time.geekbang.org/course/intro/100032201",
+			"platform": "geekTime",
+			"type": "video",
+			"author": {
+				"name": "梁宵",
+				"desc": "搜狗营销事业部高级架构师"
+			},
+			"tags": [
+				"TypeScript"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "微信小程序底层框架实现原理",
+			"desc": "掌握小程序框架的设计思想与实现方式，了解小程序背后的世界",
+			"url": "https://juejin.cn/book/6982013809212784676",
+			"platform": "juejin",
+			"type": "column",
+			"author": {
+				"name": "夜还不够黑丶",
+				"desc": ""
+			},
+			"tags": [
+				"微信小程序"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "Babel 插件通关秘籍",
+			"desc": "深入探究 babel 编译原理，学完可以写任何 babel 插件。我们会进行大量的实战，最后还会手写一个简易的 babel。",
+			"url": "https://juejin.cn/book/6946117847848321055",
+			"platform": "juejin",
+			"type": "column",
+			"author": {
+				"name": "神说要有光zxg",
+				"desc": "公号「神光的编程秘籍」"
+			},
+			"tags": [
+				"Babel",
+				"编译原理"
+			],
+			"purchasable": true,
 			"isFree": false,
 			"price": null,
 			"createTime": null,
