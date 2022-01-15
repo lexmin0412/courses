@@ -8,7 +8,7 @@
 
 ## Plan
 
-使用 babel 将数据 json 转换为 markdown 写入 README。
+- [ ] 提交代码时使用工具将数据 json 转换为 markdown 写入 README。
 
 ## 开源协议
 
