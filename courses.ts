@@ -7,6 +7,10 @@ interface CourseInfo {
 	 */
 	name: string
 	/**
+	 * 课程描述
+	 */
+	desc: string
+	/**
 	 * 课程地址
 	 */
 	url: string
@@ -14,6 +18,10 @@ interface CourseInfo {
 	 * 课程所属平台 geekTime-极客时间 lagou-拉勾教育 kaikeba-开课吧 juejin-掘金 others-其他
 	 */
 	platform: 'geekTime' | 'lagou' | 'kaikeba' | 'juejin' | 'others'
+	/**
+	 * 课程类型 column-专栏
+	 */
+	type: 'column'
 	/**
 	 * 标签
 	 */
@@ -26,6 +34,10 @@ interface CourseInfo {
 	 * 价格
 	 */
 	price: string | null
+	/**
+	 * 是否可购买（状态为上架）
+	 */
+	purchasable: boolean
 	/**
 	 * 创建时间 YYYY-MM-DD HH:mm:ss
 	 */
