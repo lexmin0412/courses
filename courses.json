@@ -379,7 +379,8 @@
 				"desc": ""
 			},
 			"tags": [
-				"Node.js"
+				"管理",
+				"领导力"
 			],
 			"purchasable": true,
 			"isFree": false,
@@ -388,17 +389,427 @@
 			"expiresTime": null
 		},
 		{
-			"name": "成为会带团队的技术人",
+			"name": "趣学设计模式",
 			"desc": "",
-			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=608#/content",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=710#/content",
 			"platform": "lagou",
 			"type": "column",
 			"author": {
-				"name": "石佳宁",
+				"name": "黄靖锋",
 				"desc": ""
 			},
 			"tags": [
-				"Node.js"
+				"设计模式"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "数据结构与算法面试宝典",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=685#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "德鲁伊",
+				"desc": ""
+			},
+			"tags": [
+				"算法"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "JavaScript 核心原理精讲",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=601#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "若离",
+				"desc": ""
+			},
+			"tags": [
+				"JavaScript",
+				"事件循环"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "说透性能测试",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=600#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "周辰晨",
+				"desc": ""
+			},
+			"tags": [
+				"性能测试",
+				"Jemeter"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "14 讲提升职场竞争力",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=594#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "陈军",
+				"desc": ""
+			},
+			"tags": [
+				"职场力",
+				"沟通与协作"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "玩转 Serverless 架构",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=589#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "老蒋",
+				"desc": ""
+			},
+			"tags": [
+				"Serverless"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "玩转 Serverless 架构",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=589#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "老蒋",
+				"desc": ""
+			},
+			"tags": [
+				"Serverless"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "Web 安全攻防之道",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=585#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "赢少良",
+				"desc": ""
+			},
+			"tags": [
+				"Web安全",
+				"XSS",
+				"渗透测试"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "软件架构场景实战 22 讲",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=579#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "韦木",
+				"desc": ""
+			},
+			"tags": [
+				"架构设计",
+				"微服务"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "前端面试宝典之 React 篇",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=566#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "伯约",
+				"desc": ""
+			},
+			"tags": [
+				"React",
+				"Virtual DOM"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "DevOps 落地笔记",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=561#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "DevOps 亮哥",
+				"desc": ""
+			},
+			"tags": [
+				"DevOps"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "Spring Boot 实战开发",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=557#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "鉴湘",
+				"desc": ""
+			},
+			"tags": [
+				"Spring Boot",
+				"Java"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "跟着华为学管理",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=555#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "陈雨点",
+				"desc": ""
+			},
+			"tags": [
+				"管理"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "DDD 微服务落地实战",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=549#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "范钢",
+				"desc": ""
+			},
+			"tags": [
+				"DDD",
+				"微服务"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "人人都能学会的数据分析",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=546#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "李启方",
+				"desc": ""
+			},
+			"tags": [
+				"数据分析"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "22 讲通关 Go 语言",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "飞雪无情",
+				"desc": ""
+			},
+			"tags": [
+				"Go"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "云原生微信小程序开发实战",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=526#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "周俊鹏",
+				"desc": ""
+			},
+			"tags": [
+				"微信小程序",
+				"云原生"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "程序员的数学课",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=524#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "公瑾",
+				"desc": ""
+			},
+			"tags": [
+				"数学"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "Vue.js 3.0 核心源码解析",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=326#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "黄轶（ustbhuangyi）",
+				"desc": ""
+			},
+			"tags": [
+				"Vue3"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "重学操作系统",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=478#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "林䭽",
+				"desc": ""
+			},
+			"tags": [
+				"操作系统"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "前端工程化精讲",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=416#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "李思嘉",
+				"desc": ""
+			},
+			"tags": [
+				"前端工程化"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "腾讯敏捷项目管理实战",
+			"desc": "",
+			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=274#/content",
+			"platform": "lagou",
+			"type": "column",
+			"author": {
+				"name": "莫敏",
+				"desc": ""
+			},
+			"tags": [
+				"敏捷",
+				"项目管理"
 			],
 			"purchasable": true,
 			"isFree": false,
