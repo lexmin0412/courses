@@ -197,6 +197,85 @@
 			"expiresTime": null
 		},
 		{
+			"name": "Electron + React 从 0 到 1 实现简历平台实战",
+			"desc": "本小册从一个开发者角度，讲述技术选型到编码实现，点亮 Electron、TS 等技术点，逐步深入React开发，从0到1实现一款轻巧适用的简历平台桌面应用。",
+			"url": "https://juejin.cn/book/6950646725295996940",
+			"platform": "juejin",
+			"type": "column",
+			"author": {
+				"name": "彭于晏广州分晏",
+				"desc": "SugarTurboS Club 成员 @ CVTE"
+			},
+			"tags": [
+				"Electron",
+				"React"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "基于 Node 的 DevOps 实战",
+			"desc": "通过基于 Node 的项目实战，可以对 DevOps 有更深一步了解，包括不限于开发环节、测试环节、构建和部署环节等等。",
+			"url": "https://juejin.cn/book/6948353204648148995",
+			"platform": "juejin",
+			"type": "column",
+			"author": {
+				"name": "CookieBoty",
+				"desc": "前端小兵成长营"
+			},
+			"tags": [
+				"Node",
+				"DevOps"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "从零开发H5可视化搭建项目",
+			"desc": "配套视频教学！由浅入深从根上理解可视化搭建这回事，紧贴业务设计符合业务需要的搭建体系。",
+			"url": "https://juejin.cn/book/6930553086918262798",
+			"platform": "juejin",
+			"type": "column",
+			"author": {
+				"name": "muwoo",
+				"desc": "前端/nodejs @ 某大型互医"
+			},
+			"tags": [
+				"可视化"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
+			"name": "基于 NodeJS 构建 GraphQL API 服务",
+			"desc": "基于 Node.js 搭建敏捷高效的 GraphQL 接口服务，从理论到实战到上线，让你的知识更加丰富",
+			"url": "https://juejin.cn/book/6844733825164148744",
+			"platform": "juejin",
+			"type": "column",
+			"author": {
+				"name": "Zand",
+				"desc": "前端全栈工程师"
+			},
+			"tags": [
+				"Node.js",
+				"GrapgQL"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
 			"name": "前端基础建设与架构 30 讲",
 			"desc": "",
 			"url": "https://kaiwu.lagou.com/course/courseInfo.htm?courseId=584#/content",
