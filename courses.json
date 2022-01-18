@@ -197,6 +197,26 @@
 			"expiresTime": null
 		},
 		{
+			"name": "Taro 多端开发实现原理与项目实战",
+			"desc": "剖析 Taro 多端开发框架的实现原理，并通过电商核心的项目实战，帮助开发者快速上手多端项目。",
+			"url": "https://juejin.cn/book/6844733744830480397",
+			"platform": "juejin",
+			"type": "column",
+			"author": {
+				"name": "凹凸实验室",
+				"desc": ""
+			},
+			"tags": [
+				"Electron",
+				"React"
+			],
+			"purchasable": true,
+			"isFree": false,
+			"price": null,
+			"createTime": null,
+			"expiresTime": null
+		},
+		{
 			"name": "Electron + React 从 0 到 1 实现简历平台实战",
 			"desc": "本小册从一个开发者角度，讲述技术选型到编码实现，点亮 Electron、TS 等技术点，逐步深入React开发，从0到1实现一款轻巧适用的简历平台桌面应用。",
 			"url": "https://juejin.cn/book/6950646725295996940",
